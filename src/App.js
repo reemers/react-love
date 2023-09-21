@@ -20,7 +20,7 @@ class App extends Component {
       <main className="App">
         {this.state.count < 20 ? (
           <>
-            <h1>I love Reem this much!:</h1>
+            <h1>I love React this much!:</h1>
 
             <p className="heart-container">
               <Heart
