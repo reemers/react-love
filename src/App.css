@@ -18,7 +18,7 @@
   border: 0;
   font-size: 1rem;
   margin-top: 2rem;
-  background: linear-gradient(to right, darkblue,lightsalmon;
+  background: linear-gradient(to right, pink,lightsalmon;
   padding: 10px 20px;
   font-family: inherit;
   cursor: pointer;
@@ -34,6 +34,6 @@
 }
 
 .lots-of-love {
-  border: 2px dashed lightsalmon;
+  border: 2px dashed darkgoldenrod;
   padding: 3rem;
 }
